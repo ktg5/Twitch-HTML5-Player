@@ -1,0 +1,74 @@
+/* PLAYER BASE */
+
+.ScTransitionBase-sc-eg1bd7-0.tw-transition {
+    transition: none;
+}
+ 
+.Layout-sc-nxg1ff-0.player-controls {
+    background: linear-gradient(rgb(82 82 82), rgb(30 30 30));
+}
+
+.Layout-sc-nxg1ff-0.jzsWfm {
+    border-bottom: 1px solid black;
+    border-top: 1px solid #686868;
+    margin: 0 !important;
+}
+
+.Layout-sc-nxg1ff-0.fmjCoJ.top-bar {
+    background: none;
+}
+
+/* ################################# */
+
+/* BUTTONS */
+
+.player-controls .ScAspectRatio-sc-1sw3lwy-1.tw-aspect svg {
+    color: #b5b5b5;
+}
+ 
+figure.ffz-player-icon {
+    color: #b5b5b5;
+}
+
+/* VOLUME CONTROL */
+
+.ScRangeFillValue-sc-1qrd37x-3 {
+    background: linear-gradient(rgb(219 182 237), rgb(173 120 253));
+    height: 8px;
+}
+ 
+input#player-volume-slider-454b40af-b4aa-47ab-9266-cc2144a7df32 {
+    color: black;
+}
+
+.ScRangeFillContainer-sc-1qrd37x-2 {
+    background: black;
+    height: 8px;
+}
+ 
+.ScTransitionBase-sc-eg1bd7-0.tw-transition.volume-slider__slider-container {
+    width: 100px;
+    opacity: 1;
+}
+
+/* ################################# */
+
+/* VIEWING VODS */
+
+.Layout-sc-nxg1ff-0.fcSUKA {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.Layout-sc-nxg1ff-0.dHrscT.vod-seekbar-time-labels {
+    display: none !important;
+}
+
+.InjectLayout-sc-588ddc-0.seekbar-interaction-area {
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+}
+
+.Layout-sc-nxg1ff-0.seekbar-bar {
+    background: rgb(32 32 32);
+}
