@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitch HTML5 Player
 // @namespace    https://github.com/ktg5/Twitch-HTML5-Player/
-// @version      1.0dev1
+// @version      1.0dev2
 // @description  Try to recreate the old Twitch player looks.
 // @author       ktg5
 // @match        *://*.twitch.tv/*
